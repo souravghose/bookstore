@@ -1,0 +1,104 @@
+// Widget: Search
+
+.widget_search,
+.widget_product_search {
+    .search-form,
+    .woocommerce-product-search {
+        position: relative;
+            &::before {
+                display: block;
+                position: absolute;
+                top: 0;
+                width: 3rem;
+                height: 100%;
+                font-family: 'Flaticon';
+                text-align: center;
+                line-height: calc(1.5em + 1.25rem + 2px);
+                font-size: 1rem;
+                content: "\f100";
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                z-index: 4;
+            }
+
+        .search-field {
+            padding-left: 2.75rem;
+        }
+
+        .search-submit,
+        button[type='submit'] {
+            display: none;
+        }
+    }
+}
+
+.widget_tag_cloud .tagcloud,
+.single-post .tag-links  {
+    display: flex;
+    flex-wrap: wrap;
+    a {
+        padding: 8.5px 19.65px;
+        font-size: .875rem !important;
+        background: #fff6f6;
+        margin-bottom: .5rem;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-right: .5rem;
+        transition: all .2s ease-in-out;
+        color: #161619;
+
+        &:hover {
+            transform: translateY(-3px);
+            color: #161619;
+        }
+    }
+    
+}
+
+
+.bookworm-recent-post {
+    @extend .mb-5;
+
+    a.widget-post-thumb {
+        img {
+            object-fit: cover;
+            margin-bottom: 0 !important;
+        }
+    }
+
+
+    &:last-child {
+        @extend .mb-0;
+    }
+}
+
+.blog-sidebar .widget_categories .widget-content ul li { 
+    color: #7f7f83;
+    font-size: 80%;
+    line-height: 1.5;
+    font-weight: 400;
+    margin-bottom: 1rem;
+
+    &:last-child {
+        margin-bottom: 0;
+    }
+}
+
+.blog-sidebar .widget_categories .widget-content ul li a { 
+    color: #161619;
+    font-size: .875rem;
+    line-height: 1.5;
+    padding: 0;
+    
+}
+
+.widget-content > ul, 
+footer .widget > ul,
+ .blog-sidebar .widget > ul, 
+ .widget-area .widget > ul,
+ .widget_nav_menu .menu,
+ ul.social-menu {
+    margin-left: 0;
+ }

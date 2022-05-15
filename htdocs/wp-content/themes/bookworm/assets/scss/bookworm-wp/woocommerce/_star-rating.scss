@@ -1,0 +1,109 @@
+// Star rating
+.product .star-rating,
+.single-product .star-rating {
+    display: inline-block;
+    position: relative;
+    width: 5rem;
+    margin-bottom: 0;
+    height: .75rem;
+    line-height: 1;
+    font-family: star;
+    font-size: .75rem;
+    overflow: hidden;
+    letter-spacing: 3px;
+    
+    &::before {
+        position: absolute;
+        top: 0;
+        left: 0;
+        color: #ffbd00;
+        content: '\73\73\73\73\73';
+    }
+    span {
+        position: absolute;
+        top: 0;
+        left: 0;
+        padding-top: 2rem;
+        overflow: hidden;
+        &::before {
+           position: absolute;
+           top: 0;
+           left: 0;
+           color: #ffbd00;
+           content: '\53\53\53\53\53';
+        }
+    }
+}
+
+p.stars {
+    display: inline-block;
+    margin: 0;
+
+    a {
+        position: relative;
+        height: 1em;
+        width: 1em;
+        text-indent: -999em;
+        display: inline-block;
+        text-decoration: none;
+        margin-right: 1px;
+        font-weight: 400;
+
+        &::before {
+            display: block;
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 1em;
+            height: 1em;
+            line-height: 1;
+            font-family: 'star';
+            content: '\53';
+            color: #252525;
+            text-indent: 0;
+            opacity: 0.25;
+        }
+
+        &:hover {
+            ~ a::before {
+                content: '\53';
+                color: #252525;
+                opacity: 0.25;
+            }
+        }
+    }
+
+    &:hover {
+        a {
+            &::before {
+                content: '\53';
+                color: #efc609;
+                opacity: 1;
+            }
+        }
+    }
+
+    &.selected {
+        a.active {
+            &::before {
+                content: '\53';
+                color: #efc609;
+                opacity: 1;
+            }
+
+            ~ a::before {
+                content: '\53';
+                color: #252525;
+                opacity: 0.25;
+            }
+        }
+
+        a:not( .active ) {
+            &::before {
+                content: '\53';
+                color: #efc609;
+                opacity: 1;
+            }
+        }
+    }
+}

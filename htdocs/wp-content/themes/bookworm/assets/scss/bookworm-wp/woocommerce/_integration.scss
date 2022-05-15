@@ -1,0 +1,123 @@
+ul.products li.product,
+.products .product__hover,
+.product__hover {
+	.yith-wcwl-add-to-wishlist {
+		.yith-wcwl-add-button,
+		.yith-wcwl-wishlistaddedbrowse,
+		.yith-wcwl-wishlistexistsbrowse {
+			a {
+				display: inline-block;
+    font-weight: 400;
+    color: #161619;
+    text-align: center;
+    vertical-align: middle;
+    cursor: pointer;
+    user-select: none;
+    background-color: transparent;
+    border: 1px solid transparent;
+    padding: .75rem 1.2rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    border-radius: .25rem;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+				//@extend .btn;
+				//@extend .btn-outline-primary;
+				border: 0 !important;
+				font-size: 1.125rem;
+			    width: 2.1875rem;
+			    height: 2.1875rem;
+			    display: flex;
+			    align-items: center;
+			    justify-content: center;
+			    padding: 0;
+			    border-radius: 50%;
+			    transition: all 0.2s ease-in-out;
+
+			    &:hover {
+					color: #fff !important;
+				}
+
+			}
+		}
+
+		.yith-wcwl-wishlistaddedbrowse,
+		.yith-wcwl-add-button {
+			span.text {
+				@extend .sr-only;
+			}
+		}
+	}
+
+	.yith-wcwl-add-button a {
+		&:not(:hover) {
+			color: #161619;
+		}
+	}
+}
+
+.single-product {
+	.summary {
+		.yith-wcwl-add-to-wishlist {
+
+			.yith-wcwl-wishlistaddedbrowse a i,
+			.yith-wcwl-wishlistaddedbrowse a i{
+				margin-right: .5rem;
+			}
+
+			.yith-wcwl-add-button a:not(:hover) {
+				@extend .h-primary;
+			}
+		}
+	}
+
+	&__v6 {
+		.yith-wcwl-add-to-wishlist {
+
+			.yith-wcwl-wishlistaddedbrowse a i{
+				margin-right: .5rem;
+			}
+
+			.yith-wcwl-add-button a:not(:hover) {
+				@extend .h-primary;
+			}
+		}
+
+		.woocommerce-tabs {
+			.bg-white {
+				ul.nav {
+					display: flex;
+					align-items: center;
+				}
+			}
+		}
+	}
+}
+
+.add-to-compare-link {
+	transition: none;
+	&:hover,
+	&:focus {
+		color: #fff; 
+	}
+
+	&.btn-outline-primary:not(:hover) {
+		color: #161619;
+	}
+}
+
+.add-to-compare-link.added {
+	font-size: 0;
+
+	&:before {
+		font-family: 'bookworm-icons';
+		content: "\e91d";
+		font-size: 1rem;
+		display: inline-block;
+	}
+
+	&:hover {
+		&:before {
+			color: #fff;
+		}
+	}
+}

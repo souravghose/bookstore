@@ -1,0 +1,129 @@
+ul.products {
+	li.product {
+		.bookworm-product-list {
+			display: none;
+		}
+	}
+}
+
+.list-view {
+	ul.products {
+		li.product {
+			flex: 0 0 100%;
+			max-width: 100%;
+			border-left: 1px solid transparent;
+			border-top: 1px solid transparent;
+
+
+			.bookworm-product-list {
+				display: block;
+			}
+			
+			.bookworm-product-grid {
+				display: none;
+			}
+
+			
+			&:hover{
+				border-left-color: #161619;
+				border-top-color: #161619;
+			}
+
+			a.add_to_cart_button,
+			a.added_to_cart {
+				@extend .mr-4;
+			}
+		}
+	}
+
+	.products .product:not(.product__card):not(.product__no-border):not(.product__list):not(.product__space)::before,
+	.products .product:not(.product__card):not(.product__no-border):not(.product__list):not(.product__space)::after {
+		content: none;
+	}
+
+	.products .product:hover .product__body {
+		transform: none;
+	}
+}
+
+ul.products {
+	li.product {
+		span.price {
+			font-size: 1.125rem;
+			font-weight: 500 !important;
+			display: block !important;
+		}
+
+		.onsale.badge-pos--top-right {
+			 @include media-breakpoint-down(sm) {
+			 	top: 10px;
+			 }
+		}
+	}
+}
+
+.shop-control-bar {
+	select {
+		border: 0;
+		border-bottom : 1px solid #eae8e4;
+		font-size: 1rem;
+    	color: #161619;
+    	padding: .5rem 1.2rem;
+    	height: auto;
+
+    	&.orderby {
+    		margin-right: 15px;
+    	}
+	}
+}
+
+.h-p-bg.text-primary:hover, 
+.single-product .related.products .yith-wcwl-add-to-wishlist a:hover,
+.single-product .upsells.products .yith-wcwl-add-to-wishlist a:hover {
+	color: #fff !important;
+}
+
+
+#primary {
+    .grid-view .products.row-cols-lg-4 > *,
+    .grid-view .products.row-cols-lg-3 > *,
+    .grid-view .products.row-cols-lg-5 > *,
+    .grid-view .products.row-cols-lg-6 > * {
+        @include media-breakpoint-only(lg) {
+        	flex: 0 0 33.33%;
+        	max-width: 33.33%;
+        }
+    }
+}
+
+.left-sidebar,
+.right-sidebar {
+    #primary {
+        .grid-view .products.row-cols-lg-4 > * {
+            @include media-breakpoint-only(lg) {
+            	flex: 0 0 33.33%;
+            	max-width: 33.33%;
+            }
+        }
+    }
+}
+
+ul.view-switcher {
+	li a:not(.active) {
+		opacity: .3;
+	}
+}
+
+.bookworm-recommended-block {
+	header.text-center {
+		text-align: left !important;
+	}
+}
+
+.woocommerce-pagination {
+	.pagination .page-item:first-child .page-link,
+	.pagination .page-item .page-link,
+	.pagination .page-item:last-child .page-link {
+		padding: 8px 14px;
+	}
+}

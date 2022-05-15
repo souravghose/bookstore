@@ -1,0 +1,52 @@
+.woocommerce-mini-cart {
+    &-item__thumbnail {
+        .sidebar & {
+            width: 90px;
+            max-width: 30%;
+        }
+    }
+
+    .text-lh-md.text-height-2 {
+        height: auto;
+        max-height: 3rem;
+    }
+
+    #offcanvasCart & {
+        &-item,
+        &__buttons,
+         &__subtotal {
+            padding: ($spacer * 2) ($spacer * 1.5) !important;
+
+            @include media-breakpoint-up(md) {
+                padding-left: ($spacer * 2.5) !important;
+                padding-right: ($spacer * 2.5) !important;
+            }
+        }
+
+        &-item {
+            &__content {
+                margin-left: ($spacer * 1.875) !important;
+            }
+        }
+
+        &__buttons {
+
+            margin-bottom: ($spacer * 3.5) !important;
+
+            .btn {
+                // @extend .py-4;
+                padding-top: ($spacer * 1.5) !important;
+                padding-bottom: ($spacer * 1.5) !important;
+
+                &:not(:last-child) {
+                    // @extend .mb-4;
+                    margin-bottom: ($spacer * 1.5) !important;
+                }
+            }
+        }
+
+        &__empty-message {
+            padding-top: ($spacer * 1.5) !important;
+        }
+    }
+}

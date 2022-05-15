@@ -1,0 +1,97 @@
+.single-product {
+	.woocommerce-product-gallery {
+
+		.woocommerce-product-gallery__image,
+		.woocommerce-product-gallery__image--placeholder  {
+			img {
+				max-width: 100%;
+    			height: auto;
+    			margin-left: auto;
+    			margin-right: auto;
+    			display: block;
+			}
+		}
+
+		.flex-control-thumbs {
+			margin: 1.5rem 0 0;
+			padding: 0;
+			display: flex;
+			flex-wrap: wrap;
+			align-items: center;
+			justify-content: center;
+			list-style: none;
+
+			li {
+				padding: 0 5px;
+				cursor: pointer;
+				margin-bottom: 1.5rem;
+			}
+		}
+
+		.woocommerce-product-gallery__trigger {
+			position: absolute;
+		    top: 0.875em;
+		    right: 0.875em;
+		    display: block;
+		    height: 2em;
+		    width: 2em;
+		    border-radius: 3px;
+		    z-index: 99;
+		    text-align: center;
+		}
+
+		&.woocommerce-thumb-count-0 {
+            padding-bottom: 3.5rem;
+
+			.u-slick__pagination:not(.u-slick__pagination--block) {
+				display: none;
+			}
+		}
+	}
+
+	.bookworm-product-gallery-without-carousel {
+     
+        .flex-viewport {
+            display: none;
+        }
+
+        .woocommerce-product-gallery .flex-control-thumbs {
+            @include make-row();
+            margin-top: 0 !important;
+
+           li {
+                flex-basis: 0;
+				flex-grow: 1;
+				max-width: 100%;
+                border-right: 1px solid #eae8e4 !important;
+                border-bottom: 1px solid #eae8e4 !important;
+                padding-top: 3.5rem !important;
+                padding-bottom: 3.5rem !important;
+                display: flex !important;
+                margin-bottom: 0 !important;
+                @include make-col-ready;
+                @include make-col(6);
+                cursor: default;
+
+                img {
+                    margin-left: auto;
+                    margin-right: auto;
+                }
+
+                &:not(:first-child):nth-child(odd):last-child{
+                    border: 0 !important;
+                }
+            } 
+        }
+    
+    }
+}
+
+
+.single-product .related-product-carousel .slick-track > .product:only-child {
+    border-right: 1px solid #eae8e4 !important;
+}
+
+.single-product .related-product-carousel .slick-track > .product:only-child:hover {
+    border-right-color: #161619 !important;
+}

@@ -1,0 +1,2682 @@
+# <!=Copyright (C) 2021 MadrasThemes
+# This file is distributed under the GNU General Public License v3 or later.=!>
+msgid ""
+msgstr ""
+"Project-Id-Version: Bookworm 1.0.6\n"
+"Report-Msgid-Bugs-To: https://madrasthemes.freshdesk.com/\n"
+"POT-Creation-Date: 2021-04-14 09:56:46+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2021-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: POT <support@madrasthemes.freshdesk.com>\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: 404.php:7
+msgid "404"
+msgstr ""
+
+#: 404.php:9
+msgid "Woops, looks like this page does not exist"
+msgstr ""
+
+#: 404.php:11
+msgid "You could either go back or go to homepage"
+msgstr ""
+
+#: 404.php:13
+msgid "Go Back"
+msgstr ""
+
+#: comments.php:41
+#. translators: comment reply text
+msgid "Reply"
+msgstr ""
+
+#: comments.php:56
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:69
+msgid "Your email address will not be published."
+msgstr ""
+
+#: comments.php:71
+#. translators: related to comment form; phrase follows by red mark
+msgid "Required fields are marked"
+msgstr ""
+
+#: comments.php:79
+#. translators: label for textarea in comment form
+msgid "Comment"
+msgstr ""
+
+#: inc/bookworm-functions.php:223
+msgid "&laquo; Prev"
+msgstr ""
+
+#: inc/bookworm-functions.php:224
+msgid "Next &raquo;"
+msgstr ""
+
+#: inc/bookworm-functions.php:236
+msgid "Page navigation"
+msgstr ""
+
+#: inc/class-bookworm.php:79
+msgid "Topbar Left"
+msgstr ""
+
+#: inc/class-bookworm.php:80
+msgid "Topbar Right"
+msgstr ""
+
+#: inc/class-bookworm.php:81
+msgid "Primary Menu"
+msgstr ""
+
+#: inc/class-bookworm.php:82
+msgid "Secondary Menu"
+msgstr ""
+
+#: inc/class-bookworm.php:83
+msgid "Social Media"
+msgstr ""
+
+#: inc/class-bookworm.php:84
+msgid "Contact Links"
+msgstr ""
+
+#: inc/class-bookworm.php:85
+msgid "Department Menu"
+msgstr ""
+
+#: inc/class-bookworm.php:86
+msgid "Offcanvas Menu"
+msgstr ""
+
+#: inc/class-bookworm.php:149
+msgid "Primary"
+msgstr ""
+
+#: inc/class-bookworm.php:154
+msgid "Secondary"
+msgstr ""
+
+#: inc/class-bookworm.php:159
+msgid "Primary Green"
+msgstr ""
+
+#: inc/class-bookworm.php:164
+msgid "Primary Yellow"
+msgstr ""
+
+#: inc/class-bookworm.php:169
+msgid "Info"
+msgstr ""
+
+#: inc/class-bookworm.php:174
+msgid "Yellow Darker"
+msgstr ""
+
+#: inc/class-bookworm.php:179
+msgid "Bg Gray 200"
+msgstr ""
+
+#: inc/class-bookworm.php:184
+msgid "Primary Home v3"
+msgstr ""
+
+#: inc/class-bookworm.php:189
+msgid "Primary Indigo"
+msgstr ""
+
+#: inc/class-bookworm.php:194
+msgid "White"
+msgstr ""
+
+#: inc/class-bookworm.php:199
+msgid "Tangerine"
+msgstr ""
+
+#: inc/class-bookworm.php:204
+msgid "Tangerine Light"
+msgstr ""
+
+#: inc/class-bookworm.php:209
+msgid "Chili"
+msgstr ""
+
+#: inc/class-bookworm.php:214
+msgid "Chili Light"
+msgstr ""
+
+#: inc/class-bookworm.php:219
+msgid "Carolina"
+msgstr ""
+
+#: inc/class-bookworm.php:224
+msgid "Carolina Light"
+msgstr ""
+
+#: inc/class-bookworm.php:229
+msgid "Punch"
+msgstr ""
+
+#: inc/class-bookworm.php:234
+msgid "Bg Dark 1"
+msgstr ""
+
+#: inc/class-bookworm.php:239
+msgid "Pale Pink"
+msgstr ""
+
+#: inc/class-bookworm.php:282 inc/customizer/class-bookworm-customizer.php:913
+#. translators: label field of control in Customizer
+msgid "Blog Sidebar"
+msgstr ""
+
+#: inc/class-bookworm.php:330
+#. translators: 1: column number
+msgid "Footer Column %1$d"
+msgstr ""
+
+#: inc/class-bookworm.php:333
+#. translators: 1: column number
+msgid "Widgets added here will appear in column %1$d of the footer."
+msgstr ""
+
+#: inc/class-bookworm.php:336
+msgid "This widget area is available in Footer v2 only"
+msgstr ""
+
+#: inc/class-bookworm.php:341
+#. translators: 1: row number, 2: column number
+msgid "Footer Row %1$d - Column %2$d"
+msgstr ""
+
+#: inc/class-bookworm.php:344
+#. translators: 1: column number, 2: row number
+msgid "Widgets added here will appear in column %1$d of footer row %2$d."
+msgstr ""
+
+#: inc/class-bookworm.php:682 inc/class-bookworm.php:683
+#: templates/admin/icons.php:9
+msgid "Bookworm Icons"
+msgstr ""
+
+#: inc/class-bookworm.php:825
+msgid "Envato Market"
+msgstr ""
+
+#: inc/class-bookworm.php:836
+msgid "Custom Sidebars"
+msgstr ""
+
+#: inc/class-bookworm.php:845
+msgid "MAS Static Content"
+msgstr ""
+
+#: inc/class-bookworm.php:854
+msgid "One Click Demo Import"
+msgstr ""
+
+#: inc/class-bookworm.php:863
+msgid "Bookworm Extensions"
+msgstr ""
+
+#: inc/class-bookworm.php:873
+msgid "Bookworm Gutenberg Blocks"
+msgstr ""
+
+#: inc/class-bookworm.php:883
+msgid "WPForms Lite"
+msgstr ""
+
+#: inc/class-bookworm.php:893
+msgid "WP Store Locator"
+msgstr ""
+
+#: inc/class-bookworm.php:903
+msgid "WooCommerce"
+msgstr ""
+
+#: inc/class-bookworm.php:913
+msgid "YITH WooCommerce Wishlist"
+msgstr ""
+
+#: inc/class-bookworm.php:924
+msgid "YITH WooCommerce Compare"
+msgstr ""
+
+#: inc/class-bookworm.php:935
+msgid "MAS WooCommerce Brands"
+msgstr ""
+
+#: inc/classes/class-bookworm-walker-comment.php:71
+#: woocommerce/myaccount/my-address.php:71
+msgid "Edit"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:337
+#. translators: %s: plugin name.
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:339
+#. translators: %s: plugin name.
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:377
+#. translators: 1: plugin name(s).
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/classes/class-tgm-plugin-activation.php:382
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/classes/class-tgm-plugin-activation.php:387
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/classes/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:393
+#: inc/classes/class-tgm-plugin-activation.php:912
+#: inc/classes/class-tgm-plugin-activation.php:2618
+#: inc/classes/class-tgm-plugin-activation.php:3668
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:394
+#: inc/classes/class-tgm-plugin-activation.php:3244
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:395
+#: inc/classes/class-tgm-plugin-activation.php:3037
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:397
+#. translators: 1: plugin name.
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:399
+#. translators: 1: plugin name.
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:401
+#. translators: 1: dashboard link.
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:1019
+#: inc/classes/class-tgm-plugin-activation.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2067
+#. translators: %s: version number
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2477
+#. translators: 1: number of plugins.
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2481
+#. translators: 1: number of plugins.
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2485
+#. translators: 1: number of plugins.
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2634
+msgid "Type"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2638
+#: inc/customizer/class-bookworm-customizer.php:991
+msgid "Version"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2639
+msgid "Status"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2688
+#. translators: %2$s: plugin name in screen reader markup
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2693
+#. translators: %2$s: plugin name in screen reader markup
+msgid "Update %2$s"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2699
+#. translators: %2$s: plugin name in screen reader markup
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2808
+#: woocommerce/cart/shipping-calculator.php:86
+msgid "Update"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3583
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3586
+#. translators: 1: plugin name, 2: error message.
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3588
+#. translators: 1: plugin name.
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3591
+msgid ""
+"The installation and activation process is starting. This process may take "
+"a while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3593
+#. translators: 1: plugin name.
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3594
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3596
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3599
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3601
+#. translators: 1: plugin name.
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3602
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3604
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3608
+msgid "Show Details"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3608
+msgid "Hide Details"
+msgstr ""
+
+#: inc/classes/class-wp-bootstrap-navwalker.php:494
+#: inc/classes/class-wp-offcanvas-navwalker.php:383
+msgid "Add a menu"
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:48
+msgid ""
+"Logo is optimized for retina displays, so the original image size should be "
+"twice\n"
+"                as big as the final logo that appears on the website. For "
+"example, if you want logo to\n"
+"                be 142x34 px you should upload image 284x68 px."
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:70
+#. translators: label field for setting in Customizer
+msgid "Footer Logo"
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:72
+#. translators: description field for setting in Customizer
+msgid "Footer logo inherits the same behavior for retina displays as desktop logo."
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:79
+#: inc/customizer/class-bookworm-customizer.php:84
+msgid "Select logo"
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:80
+msgid "Change logo"
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:81
+#: templates/shop/compare.php:41
+msgid "Remove"
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:82
+#: inc/woocommerce/classes/class-bookworm-wc-helper.php:90
+msgid "Default"
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:83
+msgid "No logo selected"
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:85
+msgid "Choose logo"
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:101
+msgid "Enable SVG Logo?"
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:103
+#: inc/customizer/class-bookworm-customizer.php:139
+#: inc/customizer/class-bookworm-customizer.php:213
+#: inc/customizer/class-bookworm-customizer.php:241
+#: inc/customizer/class-bookworm-customizer.php:265
+#: inc/customizer/class-bookworm-customizer.php:332
+#: inc/customizer/class-bookworm-customizer.php:349
+#: inc/customizer/class-bookworm-customizer.php:372
+#: inc/customizer/class-bookworm-customizer.php:396
+#: inc/customizer/class-bookworm-customizer.php:431
+#: inc/customizer/class-bookworm-customizer.php:458
+#: inc/customizer/class-bookworm-customizer.php:505
+#: inc/customizer/class-bookworm-customizer.php:561
+#: inc/customizer/class-bookworm-customizer.php:675
+#: inc/customizer/class-bookworm-customizer.php:933
+#: inc/customizer/class-bookworm-customizer.php:949
+#: inc/customizer/class-bookworm-customizer.php:1021
+#: inc/customizer/class-bookworm-customizer.php:1104
+#: inc/customizer/class-bookworm-customizer.php:1166
+#: inc/customizer/class-bookworm-customizer.php:1227
+#: inc/customizer/class-bookworm-customizer.php:1248
+#: inc/customizer/class-bookworm-customizer.php:1340
+#: inc/woocommerce/class-bookworm-woocommerce-customizer.php:183
+msgid "Yes"
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:104
+#: inc/customizer/class-bookworm-customizer.php:140
+#: inc/customizer/class-bookworm-customizer.php:214
+#: inc/customizer/class-bookworm-customizer.php:242
+#: inc/customizer/class-bookworm-customizer.php:266
+#: inc/customizer/class-bookworm-customizer.php:333
+#: inc/customizer/class-bookworm-customizer.php:350
+#: inc/customizer/class-bookworm-customizer.php:373
+#: inc/customizer/class-bookworm-customizer.php:397
+#: inc/customizer/class-bookworm-customizer.php:432
+#: inc/customizer/class-bookworm-customizer.php:459
+#: inc/customizer/class-bookworm-customizer.php:506
+#: inc/customizer/class-bookworm-customizer.php:562
+#: inc/customizer/class-bookworm-customizer.php:676
+#: inc/customizer/class-bookworm-customizer.php:934
+#: inc/customizer/class-bookworm-customizer.php:950
+#: inc/customizer/class-bookworm-customizer.php:1022
+#: inc/customizer/class-bookworm-customizer.php:1105
+#: inc/customizer/class-bookworm-customizer.php:1167
+#: inc/customizer/class-bookworm-customizer.php:1228
+#: inc/customizer/class-bookworm-customizer.php:1249
+#: inc/customizer/class-bookworm-customizer.php:1341
+#: inc/woocommerce/class-bookworm-woocommerce-customizer.php:184
+msgid "No"
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:121
+#: inc/customizer/class-bookworm-customizer.php:168
+#: inc/customizer/class-bookworm-customizer.php:978
+#. translators: title of section in Customizer
+msgid "General"
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:122
+msgid "This section contains settings related to general."
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:137
+msgid "Disable AJAX content placeholder"
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:157
+msgid "Header"
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:158
+msgid "This section contains settings related to header."
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:169
+msgid "Contains general settings for header customization."
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:180
+msgid "Header Version"
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:181
+msgid "This setting allows you to choose the desired version of header."
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:183
+msgid "Header v1"
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:184
+msgid "Header v2"
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:185
+msgid "Header v3"
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:186
+msgid "Header v4"
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:187
+msgid "Header v5"
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:188
+msgid "Header v6"
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:189
+msgid "Header v7"
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:190
+msgid "Header v8"
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:191
+msgid "Header v9"
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:192
+msgid "Header v10"
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:193
+msgid "Header v11"
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:194
+msgid "Header v12"
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:195
+msgid "Header v13"
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:211
+msgid "Enable Topbar?"
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:239
+msgid "Enable Navbar?"
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:263
+msgid "Enable Offcanvas Nav?"
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:274
+#: inc/customizer/class-bookworm-customizer.php:473
+#: inc/template-functions/header.php:53 inc/template-functions/header.php:83
+msgid "Browse categories"
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:282
+#: inc/customizer/class-bookworm-customizer.php:304
+msgid "Offcanvas Nav Title"
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:283
+msgid ""
+"This setting allows you to change \"Browse categories\" word to something "
+"else in offcanvas nav toggler."
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:296
+#: inc/template-functions/header.php:63
+msgid "MENU"
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:305
+msgid "This setting allows you to change \"Menu\" word to something else."
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:326
+msgid "Make header sticky?"
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:327
+msgid ""
+"Sticky means that navbar is locked into place so that it does not disappear "
+"when the user scrolls down the page."
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:346
+msgid "Show cart?"
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:347
+msgid "Enable / disable mini cart in Header."
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:369
+msgid "Show My Account?"
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:370
+msgid "Enable / disable account in Header."
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:393
+msgid "Show Wishlist"
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:394
+msgid "Enable / disable wishlist in Header."
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:428
+msgid "Show Compare"
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:429
+msgid "Enable / disable compare in Header."
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:456
+msgid "Enable Department Menu?"
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:481
+msgid "Department Menu Toggler Title"
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:482
+msgid ""
+"This setting allows you to change \"Browse categories\" word to something "
+"else in department menu toggler."
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:502
+msgid "Show Store Locator"
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:503
+msgid "Enable / disable store locator in Topbar."
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:528
+msgid "Select an \"Store Location\" page"
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:546
+msgid "Support"
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:547
+msgid "Contains support settings for header customization."
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:559
+msgid "Enable Mail Support?"
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:585
+msgid "Mail Support Pretext"
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:599
+#: inc/template-functions/header.php:680
+msgid "Any questions"
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:607
+msgid "Mail Support Title"
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:629
+msgid "Mail Support Url"
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:651
+msgid "Mail Support Icon Class"
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:673
+msgid "Enable Telephone Support?"
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:699
+msgid "Telephone Support Pretext"
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:713
+#: inc/template-functions/header.php:694
+msgid "Call toll-free"
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:721
+msgid "Telephone Support Title"
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:743
+msgid "Telephone Support Url"
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:765
+msgid "Telephone Support Icon Class"
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:797
+msgid "Title"
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:816
+msgid "Subtitle"
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:835
+msgid "Button Text"
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:854
+msgid "\"Go Back\" button color"
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:876
+#: inc/woocommerce/template-functions/product-archive.php:475
+#. translators: title of section in Customizer
+msgid "Blog"
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:877
+msgid ""
+"This section contains settings related to posts listing archives and single "
+"post."
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:894
+#. translators: label field of control in Customizer
+msgid "Blog Layout"
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:895
+msgid "This setting affects both the posts listing (your blog page) and archives."
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:898
+#: inc/woocommerce/class-bookworm-woocommerce-customizer.php:157
+#. translators: single item in a list of Blog Layout choices (in Customizer)
+msgid "Grid"
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:900
+#: inc/woocommerce/class-bookworm-woocommerce-customizer.php:158
+#. translators: single item in a list of Blog Layout choices (in Customizer)
+msgid "List"
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:914
+msgid ""
+"This setting affects both the posts listing (your blog page) and archives. "
+"This works when blog sidebar has widgets"
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:916
+#: inc/woocommerce/class-bookworm-woocommerce-customizer.php:109
+#: inc/woocommerce/class-bookworm-woocommerce-customizer.php:338
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:917
+#: inc/woocommerce/class-bookworm-woocommerce-customizer.php:110
+#: inc/woocommerce/class-bookworm-woocommerce-customizer.php:339
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:918
+msgid "No Sidebar"
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:930
+msgid "Enable Blog Author Info"
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:931
+msgid "This setting allows you to enable author info"
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:946
+msgid "Enable Blog Related Posts"
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:947
+msgid "This setting allows you to enable related posts"
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:962
+msgid "Footer"
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:963
+msgid ""
+"Footer is divided into two section: top section and bottom one. The top "
+"section contains the widgets\n"
+"                    areas and divided into four columns. The bottom section "
+"contains copyright, payment method and langauge switcher."
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:979
+msgid "Contains general settings for footer customization."
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:992
+msgid "This setting allows you to choose the desired version of footer."
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:994
+msgid "Footer v1"
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:995
+msgid "Footer v2"
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:996
+msgid "Footer v3"
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:997
+msgid "Footer v4"
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:998
+msgid "Footer v5"
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:999
+msgid "Footer v6"
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:1000
+msgid "Footer v7"
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:1001
+msgid "Footer v8"
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:1002
+msgid "Footer v9"
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:1003
+msgid "Footer v10"
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:1004
+msgid "Footer v11"
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:1005
+msgid "Footer v12"
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:1006
+msgid "Footer v13"
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:1018
+msgid "Enable Newsletter Form"
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:1019
+msgid "This setting allows you to show or hide newsletter form in Footer."
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:1040
+#. translators: default value for "departments_title" setting in Customizer
+msgid "Newsletter Title"
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:1041
+msgid "This setting allows you to change newsletter title"
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:1061
+#. translators: default value for "departments_title" setting in Customizer
+msgid "Newsletter Description"
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:1062
+msgid "This setting allows you to change newsletter description"
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:1082
+#. translators: default value for "departments_title" setting in Customizer
+msgid "Newsletter Form"
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:1083
+msgid "Paste your newsletter signup form or shortcode"
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:1101
+msgid "Enable Shop Address"
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:1102
+msgid "This setting allows you to show or hide show address in Footer."
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:1124
+#. translators: default value for "departments_title" setting in Customizer
+msgid "Shop Address 1"
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:1125
+#: inc/customizer/class-bookworm-customizer.php:1145
+msgid "This setting allows you to change shop address to something else."
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:1144
+#. translators: default value for "departments_title" setting in Customizer
+msgid "Shop Address 2"
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:1163
+msgid "Enable Payment Method"
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:1164
+msgid "This setting allows you to show or hide payment in Footer."
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:1185
+#. translators: label field for setting in Customizer
+msgid "Payment Methods"
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:1187
+#. translators: description field for "Payment Methods" setting in Customizer
+msgid "Enter image URL"
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:1208
+#. translators: label field for setting in Customizer
+msgid "Copyright"
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:1210
+#. translators: description field for "Copyright" setting in Customizer
+msgid "HTML is allowed in this field."
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:1224
+msgid "Enable Language Switcher"
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:1225
+msgid "This setting allows you to show or hide language in Footer."
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:1245
+msgid "Enable Currency Switcher"
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:1246
+msgid "This setting allows you to show or hide currency in Footer."
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:1265
+#. translators: label field for setting in Customizer
+msgid "Note"
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:1269
+#. translators: %s: link to Widgets panel in Customizer
+msgid ""
+"Top section is built with widgets. On Widgets screen you can find three "
+"sidebars\n"
+"                            with names like \"Footer Column 1\" each "
+"represents one column and may contains one or more widgets.\n"
+"                            Top section will appear as soon as you add your "
+"first widget (in any column).\n"
+"                            <strong>Make sure you published your "
+"changes.</strong>\n"
+"                            <p>Ready? <a href=\"%s\">Add widgets to the "
+"footer columns</a>.</p>\n"
+"                            <hr>"
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:1299
+msgid "— Select —"
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:1315
+msgid "Custom Theme Color"
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:1334
+msgid "Enable Custom Color?"
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:1335
+msgid "This settings allow you to apply your custom color option."
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:1357
+msgid "Primary color"
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:1379
+msgid "Secondary color"
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:1401
+msgid "Gray 200 color"
+msgstr ""
+
+#: inc/ocdi/functions.php:12
+msgid ""
+"Import process may take 3-5 minutes. If you facing any issues please "
+"contact our support."
+msgstr ""
+
+#: inc/template-functions/blog.php:72 templates/blog/content-grid.php:53
+#: templates/blog/content-list.php:46 templates/blog/loop-related.php:43
+msgid "0 Comments"
+msgstr ""
+
+#: inc/template-functions/blog.php:72 templates/blog/content-grid.php:53
+#: templates/blog/content-list.php:46 templates/blog/loop-related.php:43
+msgid "1 Comment"
+msgstr ""
+
+#: inc/template-functions/blog.php:72 templates/blog/content-grid.php:53
+#: templates/blog/content-list.php:46 templates/blog/loop-related.php:43
+msgid "% Comments"
+msgstr ""
+
+#: inc/template-functions/blog.php:97
+#. translators: aria-label for posts navigation wrapper
+msgid "Page navigation example"
+msgstr ""
+
+#: inc/template-functions/blog.php:104
+#. translators: label for previous posts link
+msgid "Prev"
+msgstr ""
+
+#: inc/template-functions/blog.php:133 woocommerce/loop/pagination.php:41
+#. translators: label for next posts link
+msgid "Next"
+msgstr ""
+
+#: inc/template-functions/blog.php:306 inc/template-functions/page.php:150
+msgid "Pages:"
+msgstr ""
+
+#: inc/template-functions/blog.php:352
+msgid "Tags:"
+msgstr ""
+
+#: inc/template-functions/blog.php:406
+msgid "Add me on Facebook"
+msgstr ""
+
+#: inc/template-functions/blog.php:413
+msgid "Add me on Google Plus"
+msgstr ""
+
+#: inc/template-functions/blog.php:419
+msgid "Follow me on Twitter"
+msgstr ""
+
+#: inc/template-functions/blog.php:456
+msgid "Post navigation"
+msgstr ""
+
+#: inc/template-functions/blog.php:464
+msgid "Previous Post"
+msgstr ""
+
+#: inc/template-functions/blog.php:475
+msgid "Next Post"
+msgstr ""
+
+#: inc/template-functions/blog.php:504
+#. translators: related posts heading
+msgid "You may also like"
+msgstr ""
+
+#: inc/template-functions/blog.php:551
+#. translators: related posts heading
+msgid "You May Also Like"
+msgstr ""
+
+#: inc/template-functions/blog.php:590
+#. translators: comment author name
+msgid "Your name"
+msgstr ""
+
+#: inc/template-functions/blog.php:602
+#. translators: comment author e-mail
+msgid "Your email"
+msgstr ""
+
+#: inc/template-functions/blog.php:615
+msgid "Save my name and email in this browser for the next time I comment."
+msgstr ""
+
+#: inc/template-functions/blog.php:630
+#. translators: label for link to the previous comments page
+msgid "Older comments"
+msgstr ""
+
+#: inc/template-functions/blog.php:634
+#. translators: label for link to the next comments page
+msgid "Newer comments"
+msgstr ""
+
+#: inc/template-functions/blog.php:641
+#. translators: navigation through comments
+msgid "Comment navigation"
+msgstr ""
+
+#: inc/template-functions/blog.php:669
+msgid ""
+"This content is password protected. To view it please enter your password "
+"below:"
+msgstr ""
+
+#: inc/template-functions/blog.php:671
+msgid "Password:"
+msgstr ""
+
+#: inc/template-functions/footer.php:252
+msgid "Is Social Icon Menu"
+msgstr ""
+
+#: inc/template-functions/footer.php:321
+msgid "Join Our Newsletter"
+msgstr ""
+
+#: inc/template-functions/footer.php:322
+msgid ""
+"Signup to be the first to hear about exclusive deals, special offers and "
+"upcoming collections"
+msgstr ""
+
+#: inc/template-functions/footer.php:391
+msgid "Subscribe"
+msgstr ""
+
+#: inc/template-functions/footer.php:645
+msgid "%s %s. All Rights Reserved"
+msgstr ""
+
+#: inc/template-functions/footer.php:690
+msgid "Payment Info"
+msgstr ""
+
+#: inc/template-functions/headers/header-v1.php:150
+#: inc/template-functions/headers/header-v1.php:162
+#: inc/template-functions/headers/header-v10.php:191
+#: inc/template-functions/headers/header-v10.php:226
+#: inc/template-functions/headers/header-v11.php:124
+#: inc/template-functions/headers/header-v11.php:158
+#: inc/template-functions/headers/header-v13.php:193
+#: inc/template-functions/headers/header-v13.php:227
+#: inc/template-functions/headers/header-v8.php:114
+#: inc/template-functions/headers/header-v8.php:148
+#: wpsl-templates/custom.php:16
+msgid "Search"
+msgstr ""
+
+#: inc/template-functions/headers/header-v1.php:155
+#: inc/template-functions/headers/header-v1.php:158
+#: inc/template-functions/headers/header-v1.php:167
+#: inc/template-functions/headers/header-v1.php:170
+#: inc/template-functions/headers/header-v10.php:192
+#: inc/template-functions/headers/header-v10.php:227
+#: inc/template-functions/headers/header-v11.php:125
+#: inc/template-functions/headers/header-v11.php:159
+#: inc/template-functions/headers/header-v13.php:194
+#: inc/template-functions/headers/header-v13.php:228
+#: inc/template-functions/headers/header-v8.php:115
+#: inc/template-functions/headers/header-v8.php:149
+msgid "Search by Keywords"
+msgstr ""
+
+#: inc/template-functions/headers/header-v2.php:74
+#: inc/template-functions/headers/header-v2.php:101
+#: inc/template-functions/headers/header-v3.php:208
+#: inc/template-functions/headers/header-v3.php:233
+#: inc/template-functions/headers/header-v4.php:143
+#: inc/template-functions/headers/header-v4.php:170
+#: inc/template-functions/headers/header-v5.php:63
+#: inc/template-functions/headers/header-v5.php:91
+#: inc/template-functions/headers/header-v7.php:130
+#: inc/template-functions/headers/header-v7.php:157
+#: inc/template-functions/headers/header-v9.php:74
+#: inc/template-functions/headers/header-v9.php:101
+msgid "All Categories"
+msgstr ""
+
+#: inc/template-functions/headers/header-v2.php:87
+#: inc/template-functions/headers/header-v2.php:114
+#: inc/template-functions/headers/header-v3.php:204
+#: inc/template-functions/headers/header-v3.php:229
+#: inc/template-functions/headers/header-v4.php:156
+#: inc/template-functions/headers/header-v4.php:183
+#: inc/template-functions/headers/header-v5.php:76
+#: inc/template-functions/headers/header-v5.php:104
+#: inc/template-functions/headers/header-v7.php:143
+#: inc/template-functions/headers/header-v7.php:170
+#: inc/template-functions/headers/header-v9.php:87
+#: inc/template-functions/headers/header-v9.php:114
+msgid "Search for books by keyword"
+msgstr ""
+
+#: inc/template-functions/headers/header-v2.php:87
+#: inc/template-functions/headers/header-v2.php:114
+#: inc/template-functions/headers/header-v3.php:204
+#: inc/template-functions/headers/header-v3.php:229
+#: inc/template-functions/headers/header-v4.php:156
+#: inc/template-functions/headers/header-v4.php:183
+#: inc/template-functions/headers/header-v5.php:76
+#: inc/template-functions/headers/header-v5.php:104
+#: inc/template-functions/headers/header-v7.php:143
+#: inc/template-functions/headers/header-v7.php:170
+#: inc/template-functions/headers/header-v9.php:87
+#: inc/template-functions/headers/header-v9.php:114
+msgid "Amount (to the nearest dollar)"
+msgstr ""
+
+#: inc/woocommerce/bookworm-woocommerce-functions.php:211
+msgid "Hello"
+msgstr ""
+
+#: inc/woocommerce/bookworm-woocommerce-functions.php:222
+#: woocommerce/global/form-login.php:71
+msgid "Sign In"
+msgstr ""
+
+#: inc/woocommerce/bookworm-woocommerce-functions.php:223
+msgid "My Account"
+msgstr ""
+
+#: inc/woocommerce/bookworm-woocommerce-functions.php:238
+msgid "My Cart"
+msgstr ""
+
+#: inc/woocommerce/bookworm-woocommerce-functions.php:393
+#: inc/woocommerce/bookworm-woocommerce-functions.php:568
+#: inc/woocommerce/template-functions/product-archive.php:287
+msgid "Close"
+msgstr ""
+
+#: inc/woocommerce/bookworm-woocommerce-functions.php:401
+msgid "Account"
+msgstr ""
+
+#: inc/woocommerce/bookworm-woocommerce-functions.php:410
+#: inc/woocommerce/bookworm-woocommerce-functions.php:478
+#: woocommerce/global/form-login.php:80
+msgid "Create Account"
+msgstr ""
+
+#: inc/woocommerce/bookworm-woocommerce-functions.php:417
+#: woocommerce/global/form-login.php:65
+msgid "Forgot Password?"
+msgstr ""
+
+#: inc/woocommerce/bookworm-woocommerce-functions.php:446
+#: woocommerce/myaccount/form-login.php:83
+msgid "Username"
+msgstr ""
+
+#: inc/woocommerce/bookworm-woocommerce-functions.php:455
+#: templates/shop/single-product-advanced-reviews.php:142
+msgid "Email"
+msgstr ""
+
+#: inc/woocommerce/bookworm-woocommerce-functions.php:464
+#: woocommerce/global/form-login.php:42 woocommerce/myaccount/form-login.php:40
+#: woocommerce/myaccount/form-login.php:97
+msgid "Password"
+msgstr ""
+
+#: inc/woocommerce/bookworm-woocommerce-functions.php:471
+#: woocommerce/myaccount/form-login.php:106
+msgid "A password will be sent to your email address."
+msgstr ""
+
+#: inc/woocommerce/bookworm-woocommerce-functions.php:478
+#: woocommerce/myaccount/form-login.php:74
+#: woocommerce/myaccount/form-login.php:113
+msgid "Register"
+msgstr ""
+
+#: inc/woocommerce/bookworm-woocommerce-functions.php:482
+msgid "Already have an account?"
+msgstr ""
+
+#: inc/woocommerce/bookworm-woocommerce-functions.php:487
+#: inc/woocommerce/bookworm-woocommerce-functions.php:524
+#: woocommerce/myaccount/form-login.php:29
+msgid "Login"
+msgstr ""
+
+#: inc/woocommerce/bookworm-woocommerce-functions.php:507
+#: woocommerce/global/form-login.php:35
+#: woocommerce/myaccount/form-lost-password.php:43
+msgid "Username or email"
+msgstr ""
+
+#: inc/woocommerce/bookworm-woocommerce-functions.php:516
+msgid "Recover password"
+msgstr ""
+
+#: inc/woocommerce/bookworm-woocommerce-functions.php:516
+msgid "Recover Password"
+msgstr ""
+
+#: inc/woocommerce/bookworm-woocommerce-functions.php:520
+msgid "Remember your password?"
+msgstr ""
+
+#: inc/woocommerce/bookworm-woocommerce-functions.php:593
+msgid "Your shopping bag (%u)"
+msgstr ""
+
+#: inc/woocommerce/bookworm-woocommerce-functions.php:616
+#: woocommerce/cart/cart-totals.php:36 woocommerce/cart/cart-totals.php:37
+#: woocommerce/cart/cart.php:31 woocommerce/cart/cart.php:111
+#: woocommerce/checkout/review-order.php:24
+#: woocommerce/checkout/review-order.php:59
+msgid "Subtotal"
+msgstr ""
+
+#: inc/woocommerce/class-bookworm-brands.php:42
+#: inc/woocommerce/class-bookworm-brands.php:71
+msgid "Jumbotron"
+msgstr ""
+
+#: inc/woocommerce/class-bookworm-brands.php:44
+#: inc/woocommerce/class-bookworm-brands.php:82
+msgid "Select a Static Block"
+msgstr ""
+
+#: inc/woocommerce/class-bookworm-categories.php:40
+msgid "Icon for category"
+msgstr ""
+
+#: inc/woocommerce/class-bookworm-categories.php:42
+#: inc/woocommerce/class-bookworm-categories.php:62
+msgid "This is alternative for font based icons"
+msgstr ""
+
+#: inc/woocommerce/class-bookworm-categories.php:59
+msgid "Category icon"
+msgstr ""
+
+#: inc/woocommerce/class-bookworm-woocommerce-customizer.php:55
+msgid "Rows per page"
+msgstr ""
+
+#: inc/woocommerce/class-bookworm-woocommerce-customizer.php:56
+msgid "How many rows of products should be shown per page?"
+msgstr ""
+
+#: inc/woocommerce/class-bookworm-woocommerce-customizer.php:85
+msgid "Shop Page"
+msgstr ""
+
+#: inc/woocommerce/class-bookworm-woocommerce-customizer.php:86
+msgid "This section contains settings related to products listing and archives."
+msgstr ""
+
+#: inc/woocommerce/class-bookworm-woocommerce-customizer.php:106
+#: inc/woocommerce/class-bookworm-woocommerce.php:118
+#. translators: label field of control in Customizer
+msgid "Shop Sidebar"
+msgstr ""
+
+#: inc/woocommerce/class-bookworm-woocommerce-customizer.php:107
+msgid "Select from the three sidebar layouts for shop"
+msgstr ""
+
+#: inc/woocommerce/class-bookworm-woocommerce-customizer.php:111
+#: inc/woocommerce/class-bookworm-woocommerce-customizer.php:340
+msgid "Full Width"
+msgstr ""
+
+#: inc/woocommerce/class-bookworm-woocommerce-customizer.php:132
+msgid "Shop Top Jumbotron"
+msgstr ""
+
+#: inc/woocommerce/class-bookworm-woocommerce-customizer.php:133
+msgid "Choose a static block that will be the jumbotron element for shop page"
+msgstr ""
+
+#: inc/woocommerce/class-bookworm-woocommerce-customizer.php:154
+msgid "Shop Layout"
+msgstr ""
+
+#: inc/woocommerce/class-bookworm-woocommerce-customizer.php:155
+msgid "Applicable for both shop page and category views."
+msgstr ""
+
+#: inc/woocommerce/class-bookworm-woocommerce-customizer.php:180
+msgid "Enable Page Header Background"
+msgstr ""
+
+#: inc/woocommerce/class-bookworm-woocommerce-customizer.php:181
+msgid "This setting allows you to enable background for page header"
+msgstr ""
+
+#: inc/woocommerce/class-bookworm-woocommerce-customizer.php:206
+msgid "Upload page header background image"
+msgstr ""
+
+#: inc/woocommerce/class-bookworm-woocommerce-customizer.php:207
+msgid "This setting allows you to upload an image for page header."
+msgstr ""
+
+#: inc/woocommerce/class-bookworm-woocommerce-customizer.php:232
+msgid "Shop Comparison Page"
+msgstr ""
+
+#: inc/woocommerce/class-bookworm-woocommerce-customizer.php:233
+msgid "Choose a page that will be the product compare page for shop."
+msgstr ""
+
+#: inc/woocommerce/class-bookworm-woocommerce-customizer.php:257
+msgid "Product Page"
+msgstr ""
+
+#: inc/woocommerce/class-bookworm-woocommerce-customizer.php:258
+msgid "This section contains settings related to single product page"
+msgstr ""
+
+#: inc/woocommerce/class-bookworm-woocommerce-customizer.php:276
+msgid "Single Product Style"
+msgstr ""
+
+#: inc/woocommerce/class-bookworm-woocommerce-customizer.php:277
+msgid "Select the style for single product page"
+msgstr ""
+
+#: inc/woocommerce/class-bookworm-woocommerce-customizer.php:279
+#: inc/woocommerce/classes/class-bookworm-wc-helper.php:91
+msgid "Shop Single v1"
+msgstr ""
+
+#: inc/woocommerce/class-bookworm-woocommerce-customizer.php:280
+#: inc/woocommerce/classes/class-bookworm-wc-helper.php:92
+msgid "Shop Single v2"
+msgstr ""
+
+#: inc/woocommerce/class-bookworm-woocommerce-customizer.php:281
+#: inc/woocommerce/classes/class-bookworm-wc-helper.php:93
+msgid "Shop Single v3"
+msgstr ""
+
+#: inc/woocommerce/class-bookworm-woocommerce-customizer.php:282
+#: inc/woocommerce/classes/class-bookworm-wc-helper.php:94
+msgid "Shop Single v4"
+msgstr ""
+
+#: inc/woocommerce/class-bookworm-woocommerce-customizer.php:283
+#: inc/woocommerce/classes/class-bookworm-wc-helper.php:95
+msgid "Shop Single v5"
+msgstr ""
+
+#: inc/woocommerce/class-bookworm-woocommerce-customizer.php:284
+#: inc/woocommerce/classes/class-bookworm-wc-helper.php:96
+msgid "Shop Single v6"
+msgstr ""
+
+#: inc/woocommerce/class-bookworm-woocommerce-customizer.php:285
+#: inc/woocommerce/classes/class-bookworm-wc-helper.php:97
+msgid "Shop Single v7"
+msgstr ""
+
+#: inc/woocommerce/class-bookworm-woocommerce-customizer.php:306
+msgid "Shop Single Jumbotron"
+msgstr ""
+
+#: inc/woocommerce/class-bookworm-woocommerce-customizer.php:307
+msgid ""
+"Choose a static block that will be the jumbotron element for shop sinlgle "
+"page"
+msgstr ""
+
+#: inc/woocommerce/class-bookworm-woocommerce-customizer.php:335
+#. translators: label field of control in Customizer
+msgid "Single Product Sidebar"
+msgstr ""
+
+#: inc/woocommerce/class-bookworm-woocommerce-customizer.php:336
+msgid "Select from the three sidebar layouts for single product page"
+msgstr ""
+
+#: inc/woocommerce/class-bookworm-woocommerce.php:62
+msgid "Product Details"
+msgstr ""
+
+#: inc/woocommerce/class-bookworm-woocommerce.php:158
+msgid "Single Sidebar"
+msgstr ""
+
+#: inc/woocommerce/classes/class-bookworm-wc-helper.php:88
+msgid "Product Layout"
+msgstr ""
+
+#: inc/woocommerce/classes/class-bookworm-wc-helper.php:100
+msgid "Select product layout to display on product page."
+msgstr ""
+
+#: inc/woocommerce/classes/class-bookworm-wc-helper.php:113
+msgid "videos"
+msgstr ""
+
+#: inc/woocommerce/classes/class-bookworm-wc-helper.php:142
+msgid "Total Stock Quantity"
+msgstr ""
+
+#: inc/woocommerce/classes/class-bookworm-wc-helper.php:144
+msgid ""
+"Total Stock Quantity Available. This will be used to calculate prograss bar "
+"in onsale element."
+msgstr ""
+
+#: inc/woocommerce/template-functions/cart.php:13
+msgid "Your cart is currently empty."
+msgstr ""
+
+#: inc/woocommerce/template-functions/cart.php:20
+msgid "%s item"
+msgid_plural "%s items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/woocommerce/template-functions/cart.php:21
+msgid "Your Cart: %s"
+msgstr ""
+
+#: inc/woocommerce/template-functions/cart.php:70
+msgid "&times;"
+msgstr ""
+
+#: inc/woocommerce/template-functions/integrations.php:28
+msgid "Compare"
+msgstr ""
+
+#: inc/woocommerce/template-functions/product-archive.php:112
+msgid "Showing the single result"
+msgstr ""
+
+#: inc/woocommerce/template-functions/product-archive.php:115
+#. translators: %d: total results
+msgid "Showing all %d result"
+msgid_plural "Showing all %d results"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/woocommerce/template-functions/product-archive.php:241
+#: inc/woocommerce/template-functions/product-archive.php:272
+msgid "Filter By"
+msgstr ""
+
+#: inc/woocommerce/template-functions/product-archive.php:376
+msgid "Show %s"
+msgstr ""
+
+#: inc/woocommerce/template-functions/product-archive.php:377
+#: templates/blog/loop-grid.php:23
+msgid "All"
+msgstr ""
+
+#: inc/woocommerce/template-functions/product-loop.php:76
+msgid "Sale"
+msgstr ""
+
+#: inc/woocommerce/template-functions/product-loop.php:335
+#: inc/woocommerce/template-functions/single-product.php:794
+msgid "%s"
+msgid_plural "%s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/woocommerce/template-functions/single-product.php:160
+msgid "save"
+msgstr ""
+
+#: inc/woocommerce/template-functions/single-product.php:710
+#: inc/woocommerce/template-functions/single-product.php:729
+msgid "Awaiting product image"
+msgstr ""
+
+#: inc/woocommerce/template-functions/single-product.php:809
+msgid "By (author)"
+msgstr ""
+
+#: inc/woocommerce/template-functions/single-product.php:849
+msgid "Videos"
+msgstr ""
+
+#: inc/woocommerce/template-functions/single-product.php:887
+#: woocommerce/single-product/add-to-cart/variable.php:67
+msgid "Choose an option"
+msgstr ""
+
+#: mas-woocommerce-brands/shortcodes/authors-list.php:15
+#: mas-woocommerce-brands/shortcodes/authors-list.php:17
+msgid "ALL"
+msgstr ""
+
+#: mas-woocommerce-brands/shortcodes/authors-list.php:35
+msgid "No authors available."
+msgstr ""
+
+#: mas-woocommerce-brands/shortcodes/authors-list.php:45
+msgid "Published Books"
+msgstr ""
+
+#: searchform.php:8
+msgid "Search for:"
+msgstr ""
+
+#: templates/admin/icons.php:11
+msgid ""
+"The collection of vector icons in the format of web font. To add icon "
+"simply copy css class listed under each icon and paste it to the relevant "
+"field in your dashboard."
+msgstr ""
+
+#: templates/contents/content-none.php:16
+msgid "Nothing Found"
+msgstr ""
+
+#: templates/contents/content-none.php:24
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: templates/contents/content-none.php:28
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: templates/contents/content-none.php:33
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: templates/shop/compare.php:79
+msgid "Summary"
+msgstr ""
+
+#: templates/shop/compare.php:94 templates/shop/compare.php:157
+#: woocommerce/cart/cart.php:29 woocommerce/cart/cart.php:81
+msgid "Price"
+msgstr ""
+
+#: templates/shop/compare.php:106
+msgid "Rating"
+msgstr ""
+
+#: templates/shop/compare.php:118
+msgid "Availability"
+msgstr ""
+
+#: templates/shop/compare.php:128
+msgid "Description"
+msgstr ""
+
+#: templates/shop/compare.php:186
+msgid "No products were added to the compare table"
+msgstr ""
+
+#: templates/shop/compare.php:192 woocommerce/cart/cart-empty.php:31
+msgid "Return to shop"
+msgstr ""
+
+#: templates/shop/single-product-advanced-reviews.php:23
+msgid "Customer Reviews"
+msgstr ""
+
+#: templates/shop/single-product-advanced-reviews.php:31
+msgid "%s review"
+msgid_plural "%s reviews"
+msgstr[0] ""
+msgstr[1] ""
+
+#: templates/shop/single-product-advanced-reviews.php:34
+msgid "Rated %s out of 5"
+msgstr ""
+
+#: templates/shop/single-product-advanced-reviews.php:47
+msgid "See all reviews"
+msgstr ""
+
+#: templates/shop/single-product-advanced-reviews.php:58
+msgid "%s stars"
+msgstr ""
+
+#: templates/shop/single-product-advanced-reviews.php:85
+msgid "1-5 of"
+msgstr ""
+
+#: templates/shop/single-product-advanced-reviews.php:85
+msgid " %s review "
+msgid_plural " %s reviews "
+msgstr[0] ""
+msgstr[1] ""
+
+#: templates/shop/single-product-advanced-reviews.php:108
+msgid "There are no reviews yet."
+msgstr ""
+
+#: templates/shop/single-product-advanced-reviews.php:119
+#. translators: %s is product title
+msgid "Write a Review"
+msgstr ""
+
+#: templates/shop/single-product-advanced-reviews.php:119
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr ""
+
+#: templates/shop/single-product-advanced-reviews.php:121
+#. translators: %s is product title
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: templates/shop/single-product-advanced-reviews.php:125
+msgid "Submit Review"
+msgstr ""
+
+#: templates/shop/single-product-advanced-reviews.php:136
+msgid "Name"
+msgstr ""
+
+#: templates/shop/single-product-advanced-reviews.php:167
+#. translators: %s opening and closing link tags respectively
+msgid "You must be %1$slogged in%2$s to post a review."
+msgstr ""
+
+#: templates/shop/single-product-advanced-reviews.php:171
+msgid "Select a rating(required)"
+msgstr ""
+
+#: templates/shop/single-product-advanced-reviews.php:172
+msgid "Rate&hellip;"
+msgstr ""
+
+#: templates/shop/single-product-advanced-reviews.php:173
+msgid "Perfect"
+msgstr ""
+
+#: templates/shop/single-product-advanced-reviews.php:174
+msgid "Good"
+msgstr ""
+
+#: templates/shop/single-product-advanced-reviews.php:175
+msgid "Average"
+msgstr ""
+
+#: templates/shop/single-product-advanced-reviews.php:176
+msgid "Not that bad"
+msgstr ""
+
+#: templates/shop/single-product-advanced-reviews.php:177
+msgid "Very poor"
+msgstr ""
+
+#: templates/shop/single-product-advanced-reviews.php:181
+msgid "Details please! Your review helps other shoppers."
+msgstr ""
+
+#: templates/shop/single-product-advanced-reviews.php:189
+msgid "Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: woocommerce/add-to-wishlist-remove.php:49
+msgid "or"
+msgstr ""
+
+#: woocommerce/add-to-wishlist-remove.php:50
+msgid "View &rsaquo;"
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:51
+#. Translators: $s shipping destination.
+msgid "Shipping to %s."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:52
+msgid "Change address"
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:54
+msgid "Shipping options will be updated during checkout."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:62
+msgid "Shipping costs are calculated during checkout."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:64
+msgid "Enter your address to view shipping options."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:67
+msgid ""
+"There are no shipping options available. Please ensure that your address "
+"has been entered correctly, or contact us if you need any help."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:70
+#. Translators: $s shipping destination.
+msgid "No shipping options were found for %s."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:71
+msgid "Enter a different address"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:31 woocommerce/checkout/review-order.php:56
+msgid "Cart Totals"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:61
+#. translators: %s location.
+msgid "(estimated for %s)"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:87 woocommerce/cart/cart-totals.php:101
+#: woocommerce/cart/cart-totals.php:116 woocommerce/cart/cart-totals.php:117
+#: woocommerce/checkout/review-order.php:98
+msgid "Shipping"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:131
+msgid "Coupon"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:141 woocommerce/cart/cart.php:145
+msgid "Coupon:"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:142 woocommerce/cart/cart.php:145
+#: woocommerce/checkout/form-coupon.php:35
+msgid "Coupon code"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:143 woocommerce/cart/cart.php:145
+#: woocommerce/checkout/form-coupon.php:38
+msgid "Apply coupon"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:157 woocommerce/cart/cart-totals.php:158
+#: woocommerce/checkout/review-order.php:114
+#: woocommerce/order/order-details.php:52
+msgid "Total"
+msgstr ""
+
+#: woocommerce/cart/cart.php:28 woocommerce/cart/cart.php:48
+#: woocommerce/checkout/review-order.php:23
+#: woocommerce/order/order-details.php:51
+msgid "Product"
+msgstr ""
+
+#: woocommerce/cart/cart.php:30 woocommerce/cart/cart.php:87
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/cart/cart.php:74
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/cart/cart.php:124 woocommerce/cart/mini-cart.php:85
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/cart/cart.php:150
+msgid "Update cart"
+msgstr ""
+
+#: woocommerce/cart/cross-sells.php:24
+msgid "You may be interested in&hellip;"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:116
+msgid "View Cart"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:119
+msgid "Checkout"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:131
+msgid "No products in the cart."
+msgstr ""
+
+#: woocommerce/cart/proceed-to-checkout-button.php:26
+msgid "Proceed to checkout"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:24
+msgid "Calculate shipping"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:31
+msgid "Select a country / region&hellip;"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:50
+#: woocommerce/cart/shipping-calculator.php:55
+#: woocommerce/cart/shipping-calculator.php:67
+msgid "State / County"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:56
+msgid "Select an option&hellip;"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:76
+msgid "City"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:82
+msgid "Postcode / ZIP"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:26
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:26
+msgid "Have a coupon?"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:26
+msgid "Click here to enter your code"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:31
+msgid "If you have a coupon code, please apply it below."
+msgstr ""
+
+#: woocommerce/checkout/payment.php:28
+msgid "Payment"
+msgstr ""
+
+#: woocommerce/checkout/payment.php:37
+msgid ""
+"Sorry, it seems that there are no available payment methods for your state. "
+"Please contact us if you require assistance or wish to make alternate "
+"arrangements."
+msgstr ""
+
+#: woocommerce/checkout/payment.php:37
+msgid "Please fill in your details above to see available payment methods."
+msgstr ""
+
+#: woocommerce/checkout/payment.php:49
+#. translators: $1 and $2 opening and closing emphasis tags respectively
+msgid ""
+"Since your browser does not support JavaScript, or it is disabled, please "
+"ensure you click the %1$sUpdate Totals%2$s button before placing your "
+"order. You may be charged more than the amount stated above if you fail to "
+"do so."
+msgstr ""
+
+#: woocommerce/checkout/payment.php:51
+msgid "Update totals"
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:28
+msgid "Your Order"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:31
+msgid ""
+"Unfortunately your order cannot be processed as the originating "
+"bank/merchant has declined your transaction. Please attempt your purchase "
+"again."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:34
+msgid "Pay"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:36
+msgid "My account"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:43 woocommerce/checkout/thankyou.php:91
+msgid "Thank you. Your order has been received."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:50 woocommerce/myaccount/view-order.php:27
+msgid "Order number:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:55 woocommerce/myaccount/view-order.php:31
+msgid "Date:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:61
+msgid "Email:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:69
+msgid "Total:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:75
+msgid "Payment method:"
+msgstr ""
+
+#: woocommerce/global/form-login.php:55 woocommerce/myaccount/form-login.php:52
+msgid "Remember me"
+msgstr ""
+
+#: woocommerce/loop/orderby.php:24
+msgid "Shop order"
+msgstr ""
+
+#: woocommerce/loop/pagination.php:40
+msgid "Previous"
+msgstr ""
+
+#: woocommerce/loop/pagination.php:51
+msgid "Shop Page navigation"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:28
+msgid "Edit Account"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:33
+msgid "First name"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:37
+msgid "Last name"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:42
+msgid "Display name"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:44
+msgid ""
+"This will be how your name will be displayed in the account section and in "
+"reviews"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:48
+#: woocommerce/myaccount/form-login.php:90
+msgid "Email address"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:55
+msgid "Password change"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:59
+msgid "Current password (leave blank to leave unchanged)"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:63
+msgid "New password (leave blank to leave unchanged)"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:67
+msgid "Confirm new password"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:77
+msgid "Save changes"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-address.php:20
+#: woocommerce/myaccount/my-address.php:26
+#: woocommerce/myaccount/my-address.php:35
+#: woocommerce/order/order-details-customer.php:31
+msgid "Billing address"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-address.php:20
+#: woocommerce/myaccount/my-address.php:27
+#: woocommerce/order/order-details-customer.php:50
+msgid "Shipping address"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-address.php:46
+msgid "Save address"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:36
+msgid "Username or email address"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:55
+msgid "Lost your password?"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:61
+msgid "Log in"
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:50
+msgid "Reset password"
+msgstr ""
+
+#: woocommerce/myaccount/form-reset-password.php:27
+msgid "Enter a new password below."
+msgstr ""
+
+#: woocommerce/myaccount/form-reset-password.php:30
+msgid "New password"
+msgstr ""
+
+#: woocommerce/myaccount/form-reset-password.php:41
+msgid "Re-enter new password"
+msgstr ""
+
+#: woocommerce/myaccount/form-reset-password.php:58
+msgid "Save"
+msgstr ""
+
+#: woocommerce/myaccount/lost-password-confirmation.php:24
+msgid "Password reset email has been sent."
+msgstr ""
+
+#: woocommerce/myaccount/lost-password-confirmation.php:26
+msgid ""
+"A password reset email has been sent to the email address on file for your "
+"account, but may take several minutes to show up in your inbox. Please wait "
+"at least 10 minutes before attempting another reset."
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:46
+msgid "The following addresses will be used on the checkout page by default."
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:68
+msgid "You have not set up this type of address yet."
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:71
+msgid "Add"
+msgstr ""
+
+#: woocommerce/myaccount/view-order.php:35
+msgid "Status:"
+msgstr ""
+
+#: woocommerce/myaccount/view-order.php:43
+msgid "Order updates"
+msgstr ""
+
+#: woocommerce/myaccount/view-order.php:49
+msgid "l jS \\o\\f F Y, h:ia"
+msgstr ""
+
+#: woocommerce/order/order-details-customer.php:34
+#: woocommerce/order/order-details-customer.php:52
+#: woocommerce/single-product/meta.php:38
+#: woocommerce/single-product/meta.php:57
+msgid "N/A"
+msgstr ""
+
+#: woocommerce/order/order-details.php:45
+msgid "Order details"
+msgstr ""
+
+#: woocommerce/order/order-details.php:95
+msgid "Note:"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:32
+msgid "This product is currently out of stock and unavailable."
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:48
+msgid "Clear"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:35
+#: woocommerce/single-product/meta.php:57
+msgid "SKU:"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:44
+#: woocommerce/single-product/meta.php:61
+msgid "Category:"
+msgid_plural "Categories:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/meta.php:46
+#: woocommerce/single-product/meta.php:63
+msgid "Tag:"
+msgid_plural "Tags:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/related.php:28
+msgid "Related products"
+msgstr ""
+
+#: woocommerce/single-product/up-sells.php:27
+msgid "You may also like&hellip;"
+msgstr ""
+
+#: wpsl-templates/custom.php:11
+msgid "Locate a Store"
+msgstr ""
+
+#: wpsl-templates/custom.php:24
+msgid "Search radius"
+msgstr ""
+
+#: wpsl-templates/custom.php:33
+msgid "Results"
+msgstr ""
+
+#: wpsl-templates/custom.php:47
+msgid "Near Me"
+msgstr ""
+
+#: wpsl-templates/custom.php:68
+msgid "Search provided by %sWP Store Locator%s"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Bookworm"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://demo4.madrasthemes.com/bookworm/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Clean and Modern Bookstore WooCommerce Theme"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "MadrasThemes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://madrasthemes.com/"
+msgstr ""
+
+#: comments.php:26
+msgctxt "comments title"
+msgid "Comment (%1$s)"
+msgid_plural "Comments (%1$s) "
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/classes/class-bookworm-walker-comment.php:48
+msgctxt "front-end"
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/classes/class-bookworm-walker-comment.php:50
+msgctxt "front-end"
+msgid ""
+"Your comment is awaiting moderation. This is a preview, your comment will "
+"be visible after it has been approved."
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:790
+msgctxt "front-end"
+msgid "Woops, looks like this page does not exist"
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:809
+msgctxt "front-end"
+msgid "You could either go back or go to homepage"
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:828
+msgctxt "front-end"
+msgid "Go Back"
+msgstr ""
+
+#: templates/blog/none.php:16
+msgctxt "front-end"
+msgid "Ready to publish your first post?"
+msgstr ""
+
+#: templates/blog/none.php:19
+#. translators: ready to publish your first post?
+msgctxt "front-end"
+msgid "Get started here"
+msgstr ""
+
+#: templates/blog/none.php:22
+msgctxt "front-end"
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for."
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:27
+msgctxt "front-end"
+msgid "Lost your password?"
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:28
+msgctxt "front-end"
+msgid ""
+"Change your password following instructions below. This helps to keep your "
+"new password secure."
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:32
+msgctxt "front-end"
+msgid "Please enter your username or email address."
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:36
+msgctxt "front-end"
+msgid "You will receive a link to create a new password via email."
+msgstr ""
+
+#: woocommerce/myaccount/form-reset-password.php:36
+#: woocommerce/myaccount/form-reset-password.php:47
+msgctxt "front-end"
+msgid "Show password"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:1206
+#: inc/classes/class-tgm-plugin-activation.php:3033
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2427
+#. translators: 1: install status, 2: update status
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2473
+#. translators: 1: number of plugins.
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2567
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:856
+msgctxt "button"
+msgid "Primary"
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:857
+msgctxt "button"
+msgid "Accent"
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:858
+msgctxt "button"
+msgid "Secondary"
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:859
+msgctxt "button"
+msgid "Success"
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:860
+msgctxt "button"
+msgid "Danger"
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:861
+msgctxt "button"
+msgid "Warning"
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:862
+msgctxt "button"
+msgid "Info"
+msgstr ""
+
+#: inc/customizer/class-bookworm-customizer.php:863
+msgctxt "button"
+msgid "Dark"
+msgstr ""
+
+#: inc/woocommerce/template-functions/product-archive.php:120
+#. translators: 1: first result 2: last result 3: total results
+msgctxt "with first and last result"
+msgid "Showing %1$d&ndash;%2$d of %3$d result"
+msgid_plural "Showing %1$d&ndash;%2$d of %3$d results"
+msgstr[0] ""
+msgstr[1] ""
+
+#: searchform.php:10
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr ""
+
+#: searchform.php:12
+msgctxt "submit button"
+msgid "Search"
+msgstr ""

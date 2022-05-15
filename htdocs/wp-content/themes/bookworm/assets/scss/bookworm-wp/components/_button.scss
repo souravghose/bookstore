@@ -1,0 +1,16 @@
+.yith-wcwl-form.wishlist-fragment .hidden-title-form input[type="submit"],
+.wp-block-button .wp-block-button__link,
+#wpsl-wrap .wpsl-search input[type="submit"],
+#wpsl-wrap.bookworm-wpsl-custom-template #wpsl-search-btn  {
+	@include make-button;
+}
+
+
+.yith-wcwl-form.wishlist-fragment .hidden-title-form input[type="submit"],
+.wp-block-button .wp-block-button__link,
+#wpsl-wrap .wpsl-search input[type="submit"] {
+	@extend %make-button-dark;
+}
+
+
+

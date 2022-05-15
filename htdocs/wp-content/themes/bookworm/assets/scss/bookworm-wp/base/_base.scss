@@ -1,0 +1,144 @@
+* {
+	word-break: break-word;
+}
+
+a,
+a:hover {
+	text-decoration: none !important;
+}
+
+body {
+	overflow-x: hidden;
+}
+
+.fill-primary {
+    fill: #f75454;
+}
+
+.fill-white {
+    fill: #fff;
+}
+
+
+
+/* Make sure embeds and iframes fit their containers. */
+
+embed,
+iframe,
+object {
+	max-width: 100%;
+}
+
+select {
+	//@extend .form-control;
+	@include make-form-control;
+	padding: 0.75rem 1rem;
+	border-radius: 0;
+	@extend .height-5;
+	-webkit-appearance: none;
+	-moz-appearance: none;
+	appearance: none;
+	background: #fff url("data:image/svg+xml,%3Csvg width='24' height='24' viewBox='0 0 24 24' fill='black' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M12.72,15.78a.75.75,0,0,1-.53.22h-.38a.77.77,0,0,1-.53-.22L6.15,10.64a.5.5,0,0,1,0-.71l.71-.71a.49.49,0,0,1,.7,0L12,13.67l4.44-4.45a.5.5,0,0,1,.71,0l.7.71a.5.5,0,0,1,0,.71Z'/%3E%3C/svg%3E") no-repeat right .75rem center/1rem 1rem;
+}
+
+.page-template-default.page #comments {
+	@extend .container;
+	padding-bottom: 30px;
+}
+
+.article__page {
+	margin-bottom: 3rem;
+
+	&.article__cart,
+	&.article__checkout {
+		margin-bottom: 0;
+	}
+}
+
+.page-links {
+	clear: both;
+	margin: 0 0 1.5em;
+}
+
+.close {
+  float: right;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1;
+  color: #000;
+  text-shadow: 0 1px 0 #fff;
+  opacity: .5;
+}
+
+.close:hover {
+  color: #000;
+  text-decoration: none;
+}
+
+.close:not(:disabled):not(.disabled):hover, .close:not(:disabled):not(.disabled):focus {
+  opacity: .75;
+}
+
+button.close {
+  padding: 0;
+  background-color: transparent;
+  border: 0;
+  -webkit-appearance: none;
+     -moz-appearance: none;
+          appearance: none;
+}
+
+a.close.disabled {
+  pointer-events: none;
+}
+
+.bookworm-page-template {
+	.article__page {
+		margin-bottom: 0;
+	}
+}
+
+.about-template {
+	.wp-block-bwgb-stats-static,
+	.wp-block-bwgb-icon-blocks,
+	.wp-block-bwgb-team-member,
+	.wp-block-bwgb-clients {
+		display: none;
+	}
+}
+
+main {
+	position: inherit;
+}
+
+.disable-placeholder {
+	.wp-block-bwgb-author .authors-placeholder.d-flex,
+	.wp-block-bwgb-author .authors-placeholder.authors,
+	.wp-block-bwgb-author .authors-placeholder.authors-list,
+	.wp-block-bwgb-blog-post .blog-posts-placeholder,
+	.deal-products-placeholder,
+	.wp-block-bwgb-products-carousel .products-carousel-placeholder,
+	.products-categories-placeholder,
+	.wp-block-bwgb-product-featured .bookwormgb-product-featured-placeholder,
+	.wp-block-bwgb-products-deals-carousel .products-deal-carousel-placeholder,
+	.wp-block-bwgb-products-list .bookwormgb-products-list-placeholder-block,
+	.wp-block-bwgb-single-product-carousel .bwgb-single-product-carousel-placeholder,
+	.wp-block-bwgb-products .bookwormgb-products-placeholder-block,
+	.wp-block-bwgb-products-simple .bookwormgb-products-placeholder-block {
+		visibility: hidden;
+	}
+
+	.bookwormgb-products-placeholder-block {
+		.wp-block-bwgb-products.border-top & {
+			border: 0 !important;
+		}
+	}
+}
+
+body.u-unfold-opened .site-main {
+    pointer-events: none;
+}
+
+body .site-main {
+    pointer-events: auto !important;
+}

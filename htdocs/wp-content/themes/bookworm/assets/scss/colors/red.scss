@@ -1,0 +1,23 @@
+/**
+ * Pink color styles
+ */
+
+// Bootstrap setup
+@import '../../vendor/bootstrap/scss/functions';
+
+// Front setup
+@import '../bookworm/variables';
+
+// Custom setup
+@import '../user-variables';
+
+
+// Bootstrap core
+//@import '../../vendor/bootstrap/scss/bootstrap';
+
+$primary:                                                   #f75454;
+
+@import 'color';
+
+
+                                           

@@ -1,0 +1,48 @@
+@each $color, $value in $theme-colors {
+  .bg-soft-#{$color} {
+    background-color: rgba($value, .1);
+  }
+}
+
+.btn-position {
+	position: absolute;
+	top: 0;
+	right: 0;
+	transform: translate(15px, 60px);
+}
+
+.btn-wide {
+    padding: 0.75rem 3rem;
+}
+
+.btn-sm-wide {
+ 	padding: 0.75rem 2.4rem;
+}
+
+/* Extra Small */
+.btn-xs {
+	font-size: 0.6875rem;
+    font-weight: 400;
+    padding: 0.25rem 0.5rem;
+}
+
+/* Icons */
+.btn-icon {
+	&.btn-xs {
+		font-size: 0.75rem;
+		width: 1.5rem;
+		height: 1.5rem;
+	}
+
+	&.btn-sm {
+		font-size: 0.8175rem;
+		width: 2rem;
+		height: 2rem;
+	}
+
+	&.btn-lg {
+		font-size: 1.75rem;
+		width: 5rem;
+		height: 5rem;	
+	}
+}

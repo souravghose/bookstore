@@ -1,0 +1,45 @@
+.comment-list {
+	.comment-respond {
+		padding-top: 40px;
+	}
+	.comment-form {
+		.form-submit {
+			@extend .mb-7;
+		}
+	}
+}
+
+.comment-reply-link:not(:hover) {
+	color: $gray-600;
+}
+
+.comment-list .comment > .comment {
+	@include media-breakpoint-up(md) {
+		margin-left: 2rem;
+	}
+}
+
+.comment-list {
+	.comment,
+	.pingback,
+	.trackback {
+		border-top: 1px solid #eae8e4;
+		padding-top: 1.7rem;
+		margin-top: 2rem;
+
+		&:first-child {
+			border: none;
+			padding: 0;
+			margin: 0;
+		}
+	}
+
+	>.comment {
+		&:last-child {
+			border-bottom: 1px solid #eae8e4;
+			padding-bottom: 1.7rem;
+			margin-bottom: 2rem;
+		}
+	}
+
+}

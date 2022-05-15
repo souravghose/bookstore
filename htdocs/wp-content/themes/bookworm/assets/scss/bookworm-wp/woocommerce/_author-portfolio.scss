@@ -1,0 +1,41 @@
+.author-portfolio {
+	img.brand-thumbnail {
+		max-width: 100%;
+  		height: auto;
+		border-radius: 50% !important;
+		margin-bottom: 1rem !important;
+		width: 200px;
+		display: block;
+		margin-right: auto !important;
+		margin-left: auto !important;
+	}
+}
+
+.author-index-pagination {
+	white-space: nowrap;
+
+	li.active {
+		display: inline-block;
+		border-bottom: 1px solid #161619 !important;
+		padding-bottom: 6px;
+	}
+}
+
+.cbp-filters {
+	li {
+		@include media-breakpoint-down(md) {
+			flex-shrink: 0;
+		}
+	}
+}
+
+.author-jumbotron {
+	width: 100vw;
+    position: relative;
+    margin-left: calc(-50vw + 50%);
+
+    @include media-breakpoint-up(xl) {
+    	margin-left: calc(-50vw + 50% - 8px);
+    }
+  
+}

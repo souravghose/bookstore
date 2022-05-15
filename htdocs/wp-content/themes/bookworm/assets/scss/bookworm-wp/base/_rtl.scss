@@ -1,0 +1,27 @@
+[dir="rtl"] .flaticon-next::before {
+  content: "\f10f";
+}
+[dir="rtl"] .flaticon-back::before {
+  content: "\f10e";
+}
+
+[dir="rtl"] .fa-angle-right::before {
+  content: "\f104";
+}
+
+[dir="rtl"] .zeynep ul > li.has-submenu > a::after {
+	content: "\f053";
+}
+
+[dir="rtl"] .fa-chevron-left::before {
+  content: "\f054";
+}
+
+[dir="rtl"] .fa-chevron-right::before {
+  content: "\f053";
+}
+
+
+html[dir=rtl] {
+  overflow-x: hidden;
+}

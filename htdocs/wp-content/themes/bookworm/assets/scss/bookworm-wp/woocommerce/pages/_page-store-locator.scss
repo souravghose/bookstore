@@ -1,0 +1,70 @@
+#wpsl-wrap {
+	.wpsl-search {
+		background-color: #fff6f6;
+		@extend .p-4;
+		@extend .px-md-9;
+		@extend .pt-md-9;
+		@extend .pb-md-10;
+		margin-bottom: 0;
+
+		input[type="submit"] {
+			//@extend .btn;
+			//@extend .btn-dark;
+			@extend .btn-wide;
+			border-radius: 0 !important;
+			text-transform: none;
+			background-image: none;
+		}
+	}
+
+	#wpsl-search-wrap {
+		form {
+			display: flex;
+			flex-direction: column;
+
+			.wpsl-input,
+			.wpsl-select-wrap #wpsl-radius {
+				label {
+					width: 110px;
+				}
+			}
+		}
+	}
+
+	#wpsl-result-list {
+		padding-top: 3.5rem;
+
+		ul {
+			padding-left: 2rem;
+			padding-right: 2rem;
+			
+			@include media-breakpoint-up(lg) {
+				padding-left: 4rem;
+				padding-right: 4rem;
+			}
+
+			li {
+				@include media-breakpoint-up(lg) {
+					padding: 0;
+					padding-bottom: 2rem;
+					margin-bottom: 2rem;
+				}
+
+				.wpsl-store-location {
+					p {
+						> strong {
+							font-size: 1.125rem;
+							font-weight: 500;
+						}
+
+						> span {
+							font-size: 0.875rem;
+							color: #7f7f83;
+						}
+					}
+					
+				}
+			}
+		}
+	}
+}

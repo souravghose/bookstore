@@ -1,0 +1,331 @@
+table {
+    @extend .table;
+    @extend .table-responsive-sm;
+
+    th,
+    td {
+        word-break: normal;
+    }
+}
+
+.article-post,
+article.post,
+.comment-content,
+.article__page,
+.page__content > *:last-child,
+.article-post .article-post__inner > .ml-xl-4 {
+    @extend .clearfix;
+} 
+
+.article__single figure:not(.alignfull):not(.alignwide):not(.wp-block-gallery.alignleft) {
+	max-width: 100%;
+}
+
+.wp-block-button {
+    margin-bottom: 1.563rem;
+
+    .wp-block-button__link {
+        //@extend .btn;
+        //@extend .btn-dark;
+        border-radius: 0.3125rem;
+    }
+
+    &.is-style-outline {
+        .wp-block-button__link {
+            
+    		&:not(:hover){
+    			color: #000;
+                border-width: 1px;
+                background-color: transparent;
+
+    		}
+        }
+    }
+
+    &.is-style-squared {
+        .wp-block-button__link {
+            border-radius: 0 ;
+        }
+    }
+}
+// Cover
+.wp-block-cover-image,
+.wp-block-cover { 
+  height: auto;
+  margin-bottom: 1rem;
+
+  p:not(.has-text-color) { color: #fff }
+}
+
+.wp-block-cover p a:not(:hover) {
+    color: #fff;
+}
+.wp-block-cover.has-left-content {
+    justify-content: left;
+} 
+
+.wp-block-media-text {
+    margin-bottom: 20px;
+}
+
+.wp-block-gallery {
+    >.blocks-gallery-caption {
+        margin-bottom: 15px;
+        display: block;
+        width: 100%;
+        text-align: center;
+       
+    }
+}
+
+.wp-block-quote {
+    cite {
+        font-size: 15px;
+    }
+}
+
+.wp-block-quote.is-large,
+.wp-block-quote.is-style-large {
+    padding: 0;
+}
+
+.wp-block-embed.alignwide *, 
+.wp-block-embed.alignwide * {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.wp-block-archives-list,  
+.wp-block-categories-list,
+.wp-block-categories__list {
+    clear: both;
+    list-style: none;
+    padding-left: 0;
+    margin-bottom: 0;
+    font-size: 14px;
+    margin-left: 0;
+
+    a {
+        display: inline-block;
+        padding: 9px 0;
+
+        &:not(:hover) {
+            color: #161619;
+        }
+    }
+
+    .children {
+        list-style: none;
+    }
+}
+
+.wp-block-latest-comments,
+.wp-block-latest-posts {
+    margin-left: 0;
+
+
+    a:not(:hover) {
+        color: #161619;
+    }
+
+    time {
+        color: #7c6e65;
+    }
+
+    li {
+        margin-bottom: 1rem;
+    }
+}
+
+.wp-block-archives select {
+    margin-bottom: 20px;
+}
+
+.is-type-video.wp-block-embed {
+  .wp-block-embed__wrapper {
+    @extend .embed-responsive;
+
+    iframe {
+      @extend .embed-responsive-item;
+    }
+  }
+
+  &.wp-embed-aspect-21-9 {
+    .wp-block-embed__wrapper {
+      @extend .embed-responsive-21by9;
+    }
+  }
+
+  &.wp-embed-aspect-16-9 {
+    .wp-block-embed__wrapper {
+      @extend .embed-responsive-16by9;
+    }
+  }
+
+  &.wp-embed-aspect-4-3 {
+    .wp-block-embed__wrapper {
+      @extend .embed-responsive-4by3;
+    }
+  }
+
+  &.wp-embed-aspect-1-1 {
+    .wp-block-embed__wrapper {
+      @extend .embed-responsive-1by1;
+    }
+  }
+}
+.wp-block-embed-facebook {
+  .wp-block-embed__wrapper {
+    @extend .embed-responsive;
+
+    iframe {
+      @extend .embed-responsive-item;
+    }
+  }
+
+  .fb_iframe_widget {
+    max-width: 100% !important;
+  }
+}
+
+@include media-breakpoint-down(sm) {
+  .wp-block-embed-instagram iframe,
+  .fb_iframe_widget_fluid span, 
+  .wp-block-embed-facebook .fb_iframe_widget iframe {
+    width: 100% !important;
+    min-width: 100% !important;
+  }
+}
+
+.wp-block-separator:not(.is-style-wide):not(.is-style-dots) {
+    max-width: 100px;
+}
+
+.wp-block-separator {
+    border-top: 2px solid #e7eaf3;
+    border-bottom: none;
+    margin: 16px auto;
+}
+
+.wp-block-archives-list + hr.wp-block-separator, 
+.wp-block-categories-list + hr.wp-block-separator {
+  clear: both;
+}
+
+p {
+    img.alignright,
+    img.alignleft {
+        margin-bottom: .5em;
+    }
+}
+
+.article-post__inner,
+.comment .comment-text {
+    h1, h2, h3, h4, h5, h6:not(.font-size-10) {
+        @extend .mb-3;
+        @extend .mt-5;
+    }
+}
+
+.wp-block-group.has-background {
+    padding: 20px 30px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.wp-block-cover-image .wp-block-cover__inner-container, 
+.wp-block-cover .wp-block-cover__inner-container {
+    width: 100%;
+}
+
+// Color palette
+
+.has-secondary-color { color: $gray-900 !important; }
+.has-secondary-background-color { background-color: $gray-900 !important; }
+
+.has-pale-pink-color {
+    color: #f78da7 !important;
+}
+
+.has-pale-pink-background-color {
+    background-color: #f78da7 !important;
+}
+
+.has-primary-green-color { color:$primary-green !important; }
+.has-primary-green-background-color { background-color:$primary-green !important; }
+
+.has-primary-yellow-color { color:$primary-yellow !important; }
+.has-primary-yellow-background-color { background-color:$primary-yellow !important; }
+
+.has-yellow-darker-color { color:$yellow-darker !important; }
+.has-yellow-darker-background-color { background-color:$yellow-darker !important; }
+
+.has-primary-home-v-3-color { color:$gray-950 !important; }
+.has-primary-home-v-3-background-color { background-color:$gray-950 !important; }
+
+.has-primary-indigo-color { color:$primary-indigo !important; }
+.has-primary-indigo-background-color { background-color:$primary-indigo !important; }
+
+
+.has-indigo-light-color { color:$indigo-light !important; }
+.has-indigo-light-background-color { background-color:$indigo-light !important; }
+
+.has-tangerine-color { color:$tangerine !important; }
+.has-tangerine-background-color { background-color:$tangerine !important; }
+
+.has-tangerine-light-color { color:$tangerine-light !important; }
+.has-tangerine-light-background-color { background-color:$tangerine-light !important; }
+
+.has-chili-color { color:$chili !important; }
+.has-chili-background-color { background-color:$chili !important; }
+
+.has-chili-light-color { color:$chili-light !important; }
+.has-chili-light-background-color { background-color:$chili-light !important; }
+
+.has-carolina-color { color:$carolina !important; }
+.has-carolina-background-color { background-color:$carolina !important; }
+
+.has-carolina-light-color { color:$carolina-light !important; }
+.has-carolina-light-background-color { background-color:$carolina-light !important; }
+
+.has-punch-color { color:$punch !important; }
+.has-punch-background-color { background-color:$punch !important; }
+
+.has-punch-light-color { color:$punch-light !important; }
+.has-punch-light-background-color { background-color:$punch-light !important; }
+
+.has-secondary-gray-700-color { color:$secondary-gray-700 !important; }
+.has-secondary-gray-700-background-color { background-color:$secondary-gray-700 !important; }
+
+.has-secondary-gray-800-color { color:$secondary-gray-800 !important; }
+.has-secondary-gray-800-background-color { background-color:$secondary-gray-800 !important; }
+
+.has-secondary-gray-1080-color { color:$secondary-gray-1080 !important; }
+.has-secondary-gray-1080-background-color { background-color:$secondary-gray-1080 !important; }
+
+.has-secondary-gray-1090-color { color:$secondary-gray-1090 !important; }
+.has-secondary-gray-1090-background-color { background-color:$secondary-gray-1090 !important; }
+
+.has-secondary-black-100-color { color:$secondary-black-100 !important; }
+.has-secondary-black-100-background-color { background-color:$secondary-black-100 !important; }
+
+.has-secondary-black-200-color { color:$secondary-black-200 !important; }
+.has-secondary-black-200-background-color { background-color:$secondary-black-200 !important; }
+
+.has-dark-1-color { color:$dark-1 !important; }
+.has-bg-dark-1-background-color { background-color:$dark-1 !important; }
+
+.has-red-1-color { color:$red-1 !important; }
+.has-red-1-background-color { background-color:$red-1 !important; }
+
+.has-info-color { color:#00dffc !important; }
+.has-info-background-color { background-color:#00dffc !important; }
+
+.has-bg-gray-200-color { color:$gray-200 !important; }
+.has-bg-gray-200-background-color { background-color:$gray-200 !important; }
+
+.has-gray-200-color { color:$gray-200 !important; }
+.has-gray-200-background-color { background-color:$gray-200 !important; }
+
+.has-bg-white-color { color:$white !important; }
+.has-bg-white-background-color{ background-color:$white !important; }
